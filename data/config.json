@@ -1,0 +1,14 @@
+{
+"mqtt_server": "noamriter@hotmail.com",
+"emailTobeSend" : "A",
+"resetWifi" : "A",
+"day1" : "1",
+"day2" : "1",
+"day3" : "1",
+"day4" : "1",
+"day5" : "1",
+"day6" : "1",
+"day7" : "1",
+"AlarmMin" : "11",
+"AlarmHour" : "00"
+}
